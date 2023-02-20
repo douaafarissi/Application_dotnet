@@ -6,5 +6,6 @@
         public string? Nom { get; set; }
 
         public float? Price { get; set; }
+
     }
 }
